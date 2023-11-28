@@ -1,0 +1,218 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 107.2rem;
+}.printerinfo-jSV {
+  width: 100%;
+  height: 82.9rem;
+  position: relative;
+  background-color: #0f26f1;
+  border-radius: 1rem;
+}
+.printerinfo-jSV .rectangle-14-GSR {
+  width: 97.2rem;
+  height: 71.6rem;
+  position: absolute;
+  left: 5rem;
+  top: 4.8rem;
+  background-color: #d9d9d9;
+}
+.printerinfo-jSV .rectangle-11-oBT {
+  width: 54rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 41.3rem;
+  top: 19.9rem;
+  background-color: #fffdfd;
+}
+.printerinfo-jSV .id-8jX {
+  width: 3.3rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 11.8rem;
+  top: 19.9rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.printerinfo-jSV .ttid-3bb {
+  width: 13.6rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 43.5rem;
+  top: 20.2rem;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.printerinfo-jSV .rectangle-45-mXb {
+  width: 54rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 41.3rem;
+  top: 49.5rem;
+  background-color: #fffdfd;
+}
+.printerinfo-jSV .item-4-6pm {
+  width: 1.9rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 43.5rem;
+  top: 49.7rem;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.printerinfo-jSV .rectangle-44-pVs {
+  width: 54rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 41.3rem;
+  top: 39.6rem;
+  background-color: #fffdfd;
+}
+.printerinfo-jSV .brother-dp1258-jcq {
+  width: 21.7rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 43.5rem;
+  top: 39.9rem;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.printerinfo-jSV .rectangle-43-eE1 {
+  width: 54rem;
+  height: 6rem;
+  position: absolute;
+  left: 41.3rem;
+  top: 29.7rem;
+  background-color: #fffdfd;
+}
+.printerinfo-jSV .ips-xkV {
+  width: 4.5rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 43.5rem;
+  top: 30.1rem;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.printerinfo-jSV .hiu-3X3 {
+  width: 7.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 12rem;
+  top: 29.7rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.printerinfo-jSV .v-tr-6kD {
+  width: 7.7rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 12rem;
+  top: 49.5rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.printerinfo-jSV .model-Zth {
+  width: 9.8rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 12rem;
+  top: 39.6rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.printerinfo-jSV .my-in-sPb {
+  width: 21.4rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 40.7rem;
+  top: 10.1rem;
+  text-align: center;
+  font-size: 6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.printerinfo-jSV .group-37-NLM {
+  width: 26.7rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 19.5rem;
+  top: 61.5rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3d71f7;
+}
+.printerinfo-jSV .group-38-EdT {
+  width: 26.7rem;
+  height: 7.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 66.3rem;
+  top: 61.5rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3d71f7;
+}

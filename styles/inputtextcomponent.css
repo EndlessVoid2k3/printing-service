@@ -1,0 +1,126 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 47.3rem;
+}.inputtextcomponent-ceR {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  row-gap: 2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.inputtextcomponent-ceR .property-1default-8sf {
+  width: 100%;
+  height: 5.4rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.inputtextcomponent-ceR .property-1default-8sf .rectangle-20-63o {
+  box-sizing: border-box;
+  padding: 0.8rem 3.7rem 0.7rem 3.7rem;
+  width: 100%;
+  height: 100%;
+  background-color: #fcfee8;
+}
+.inputtextcomponent-ceR .property-1default-8sf .rectangle-20-63o .auto-group-j9yh-2CM {
+  margin-right: 15.6rem;
+  width: 20.3rem;
+  height: 100%;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #cfcfcf;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+}
+.inputtextcomponent-ceR .property-1variant2-i5B {
+  width: 100%;
+  height: 5.4rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.inputtextcomponent-ceR .property-1variant2-i5B .rectangle-20-G6h {
+  box-sizing: border-box;
+  padding: 0.7rem 19.3rem 0.7rem 2.1rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #fcfee8;
+}
+.inputtextcomponent-ceR .property-1variant2-i5B .rectangle-20-G6h .line-4-Ph7 {
+  margin-right: 1.1rem;
+  width: 0.5rem;
+  height: 4rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.inputtextcomponent-ceR .property-1variant2-i5B .rectangle-20-G6h .auto-group-y3df-XoK {
+  margin-top: 0.1rem;
+  width: 20.3rem;
+  height: 3.9rem;
+  flex-shrink: 0;
+}
+.inputtextcomponent-ceR .property-1variant3-rah {
+  width: 100%;
+  height: 5.4rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.inputtextcomponent-ceR .property-1variant3-rah .rectangle-20-1Tb {
+  box-sizing: border-box;
+  padding: 0.8rem 3.7rem 0.7rem 3.7rem;
+  width: 100%;
+  height: 100%;
+  background-color: #fcfee8;
+}
+.inputtextcomponent-ceR .property-1variant3-rah .rectangle-20-1Tb .auto-group-xmem-9Ju {
+  width: 20.3rem;
+  height: 100%;
+}
+.inputtextcomponent-ceR .property-1variant4-UMB {
+  width: 100%;
+  height: 5.4rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.inputtextcomponent-ceR .property-1variant4-UMB .rectangle-20-dE5 {
+  box-sizing: border-box;
+  padding: 0.8rem 3.7rem 0.7rem 3.7rem;
+  width: 100%;
+  height: 100%;
+  background-color: #fcfee8;
+}
+.inputtextcomponent-ceR .property-1variant4-UMB .rectangle-20-dE5 .auto-group-u3xb-kpV {
+  margin-right: 15.6rem;
+  width: 20.3rem;
+  height: 100%;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}

@@ -1,0 +1,75 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 102.9rem;
+}.paperunavaildialog-uYZ {
+  box-sizing: border-box;
+  padding: 2.6rem 6.5rem 3.6rem 6.5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #0f26f1;
+  border-radius: 1rem;
+}
+.paperunavaildialog-uYZ .warning-RWu {
+  margin: 0rem 0.1rem 1.7rem 0rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.paperunavaildialog-uYZ .auto-group-ijyo-Xpq {
+  width: 100%;
+  height: 31.9rem;
+  position: relative;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.paperunavaildialog-uYZ .auto-group-ijyo-Xpq .khng-u-trang-giy-vui-long-chon-lai-5rM {
+  width: 40.4rem;
+  height: 19.4rem;
+  position: absolute;
+  left: 24.7rem;
+  top: 4.3rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.paperunavaildialog-uYZ .auto-group-ijyo-Xpq .group-38-NKf {
+  width: 26.7rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 31.6rem;
+  top: 22.9rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3d71f7;
+}
