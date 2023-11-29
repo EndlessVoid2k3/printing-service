@@ -18,29 +18,27 @@
   </div>
   <div class="auto-group-lzqf-X7j">
     <div class="div-6">
-      <div class="auto-group-qxr7-WVT">
-        <div class="div-8">Tên đăng nhập</div>
-        <div class="div-9">Nhập dữ liệu</div>
-        <div class="div-10">Mật khẩu</div>
-        <div class="div-11">Nhập dữ liệu</div>
-      </div>
+      <form class="auto-group-qxr7-WVT">
+        <p class="div-8">Tên đăng nhập</p>
+        <input type="text" class="div-9" id="username" placeholder="Nhập dữ liệu">
+        <p class="div-10">Mật khẩu</p>
+        <input type="text" id="password" class="div-11" placeholder="Nhập dữ liệu">
+      </form>
+      
       <img class="image-3-LYM" src="./assets/image-3.png"/>
     </div>
-    <img class="line-1-fqX" src="REPLACE_IMAGE:1:16"/>
+    
     <div class="div-12">
       <div class="div-13">
         <div class="column">
           <div class="div-14">
             <div class="div-15">
-              <div class="div-16">
-                Đăng nhập
-              </div>
-              <div class="div-18">
-                Hủy
-              </div>
+              <a class="div-16" href="printingimportfile.html" onclick= "return validateLogin()">Đăng nhập</a>
+              <button class="div-18" onclick="return deleteLogin()">Hủy</button>
             </div>
+            <span id="error"></span>           
             <div class="div-20">Quên mật khẩu</div>
-            <div class="div-21">Thay đổi mật khẩu</div>
+            <a href="changepass.html" class="div-21">Thay đổi mật khẩu</a>
           </div>
         </div>
         <div class="column-2">
@@ -54,4 +52,6 @@
     </div>
   </div>
 </div>
+<script src="./assets/js/data.js"></script>
+<script src="./assets/js/login.js"></script>
 </body>
