@@ -1,0 +1,325 @@
+
+html {
+	font-size:62.5%;
+  scroll-behavior: smooth;
+  scroll-padding-top: 6rem;
+  overflow-x: hidden;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 100%;
+}.historylogadmin-EHj {
+    box-sizing: border-box;
+  padding-bottom: 9.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #d6d5d5;
+  border-radius: 1rem;
+}
+.historylogadmin-EHj .auto-group-x8ht-moT {
+  width: 100%;
+  height: 18.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.historylogadmin-EHj .auto-group-x8ht-moT .rectangle-2-Kpy {
+  width: 100%;
+  height: 13.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #1410f3;
+}
+.historylogadmin-EHj .auto-group-x8ht-moT .student-smart-printing-service-aF7 {
+  width: 100%;
+  height: 7.8rem;
+  position: relative;
+  left: 39.6rem;
+  top: 2.2rem;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.historylogadmin-EHj .auto-group-x8ht-moT .image-1-4g5 {
+  width: 10.2rem;
+  height: 10.2rem;
+  position: absolute;
+  left: 8.3rem;
+  top: 1.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.historylogadmin-EHj .auto-group-x8ht-moT .rectangle-3-nry {
+  width: 144rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 0;
+  top: 12.6rem;
+  background-color: #fffdfd;
+}
+.historylogadmin-EHj .auto-group-x8ht-moT .xin-chao-admin1-XpZ {
+  width: 26.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 91.1rem;
+  top: 13.6rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.historylogadmin-EHj .auto-group-x8ht-moT .ng-xut-dch {
+  width: 19.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 123.3rem;
+  top: 13.6rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.historylogadmin-EHj .auto-group-4nxv-Xxy {
+  box-sizing: border-box;
+  padding: 2.7rem 6.1rem 5.2rem 6.1rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.historylogadmin-EHj .auto-group-4nxv-Xxy .auto-group-7zds-fZP {
+  margin: 0rem 2.7rem 2.1rem 3.8rem;
+  width: calc(100% - 6.5rem);
+  height: 4.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.historylogadmin-EHj .auto-group-4nxv-Xxy .auto-group-7zds-fZP .qltk-BXj {
+  width: 39.995rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #1e6de5;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.historylogadmin-EHj .auto-group-4nxv-Xxy .auto-group-7zds-fZP .auto-group-th8h-TVF {
+  box-sizing: border-box;
+  padding-left: 2.6575rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.historylogadmin-EHj .auto-group-4nxv-Xxy .auto-group-7zds-fZP .auto-group-th8h-TVF .xem-lch-s-c7F {
+  margin-right: 2.6575rem;
+  width: 39.995rem;
+  height: 4.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #1ecde5;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.historylogadmin-EHj .auto-group-4nxv-Xxy .auto-group-7zds-fZP .auto-group-th8h-TVF .qun-l-my-in-4V3 {
+  width: 39.995rem;
+  height: 4.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #1e6de5;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.historylogadmin-EHj .auto-group-4nxv-Xxy .auto-group-hip5-8Uu {
+  box-sizing: border-box;
+  padding: 5.9rem 2.4rem 2.8rem 2.7rem;
+  width: 100%;
+  height: 69.4rem;
+  display: flex;
+  align-items: flex-start;
+  background-color: #e9e9e9;
+  flex-shrink: 0;
+}
+.historylogadmin-EHj .auto-group-4nxv-Xxy .auto-group-hip5-8Uu .auto-group-cpqr-TXB {
+  margin-right: 3rem;
+  width: 122.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.historylogadmin-EHj .auto-group-4nxv-Xxy .auto-group-hip5-8Uu .auto-group-cpqr-TXB .auto-group-pgdk-CUm {
+  margin-bottom: 2.1rem;
+  width: 100%;
+  height: 5.8rem;
+  display: flex;
+  column-gap: 1.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.historylogadmin-EHj .auto-group-4nxv-Xxy .auto-group-hip5-8Uu .auto-group-cpqr-TXB .auto-group-pgdk-CUm .stt-KpH {
+  width: 8rem;
+  height: 100%;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #33a6e7;
+  flex-shrink: 0;
+}
+.historylogadmin-EHj .auto-group-4nxv-Xxy .auto-group-hip5-8Uu .auto-group-cpqr-TXB .auto-group-pgdk-CUm .tn-user-qXj {
+  width: 30rem;
+  height: 100%;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #33a6e7;
+  flex-shrink: 0;
+}
+.historylogadmin-EHj .auto-group-4nxv-Xxy .auto-group-hip5-8Uu .auto-group-cpqr-TXB .auto-group-pgdk-CUm .tn-file-LzH {
+  width: 26rem;
+  height: 100%;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #33a6e7;
+  flex-shrink: 0;
+}
+.historylogadmin-EHj .auto-group-4nxv-Xxy .auto-group-hip5-8Uu .auto-group-cpqr-TXB .auto-group-pgdk-CUm .s-lng-rSq {
+  width: 15.2rem;
+  height: 100%;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #33a6e7;
+  flex-shrink: 0;
+}
+.historylogadmin-EHj .auto-group-4nxv-Xxy .auto-group-hip5-8Uu .auto-group-cpqr-TXB .auto-group-pgdk-CUm .kh-M8h {
+  width: 16rem;
+  height: 100%;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #33a6e7;
+  flex-shrink: 0;
+}
+.historylogadmin-EHj .auto-group-4nxv-Xxy .auto-group-hip5-8Uu .auto-group-cpqr-TXB .auto-group-pgdk-CUm .thi-gian-ThX {
+  width: 21.7rem;
+  height: 100%;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #34a7e7;
+  flex-shrink: 0;
+}
+.historylogadmin-EHj .auto-group-4nxv-Xxy .auto-group-hip5-8Uu .auto-group-cpqr-TXB .auto-group-x6tf-N3o {
+  width: 100%;
+  height: 5.1rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.historylogadmin-EHj .auto-group-4nxv-Xxy .auto-group-hip5-8Uu .auto-group-gdgh-Ucd {
+  width: 0.8rem;
+  height: 100%;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.historylogadmin-EHj .auto-group-4nxv-Xxy .auto-group-hip5-8Uu .auto-group-gdgh-Ucd .rectangle-37-qCH {
+  width: 100%;
+  height: 14rem;
+  background-color: #6e6e6e;
+}
