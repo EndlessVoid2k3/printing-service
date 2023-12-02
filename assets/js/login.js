@@ -1,4 +1,7 @@
-
+var user = {
+    username:"User123",
+    password:"123456789",
+}
 var error=document.getElementById('error');
 
 function validateLogin(){

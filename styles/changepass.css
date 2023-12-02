@@ -157,7 +157,7 @@ body {
   }
 }
 .div-12 {
-  color: #d0d0d0;
+  color: #000;
   background-color: #fcfee8;
   align-items: start;
   padding: 14px 20px 8px 37px;
@@ -204,7 +204,7 @@ body {
   }
 }
 .div-16 {
-  color: #d0d0d0;
+  color: #000;
   background-color: #fcfee8;
   align-items: start;
   padding: 14px 20px 8px 36px;
@@ -251,7 +251,7 @@ body {
   }
 }
 .div-20 {
-  color: #d0d0d0;
+  color: #000;
   background-color: #fcfee8;
   align-items: start;
   padding: 14px 20px 8px 35px;
@@ -306,6 +306,7 @@ body {
   align-items: center;
   border-radius: 10px;
   flex: 1;
+  cursor: pointer;
   padding: 24px 20px;
   font: 700 32px Inter, sans-serif;
 }
@@ -317,6 +318,7 @@ body {
   flex-direction: column;
   justify-content: center;
   color: #fff;
+  cursor: pointer;
   text-align: center;
   position: relative;
   background-color: #1410f3;

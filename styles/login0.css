@@ -156,3 +156,105 @@ body {
     font: 500 36px/44px Inter, sans-serif;
   }
 }
+.user-type1 {
+  max-width: 100%;
+  margin-top: 40px;
+  justify-content: center;
+  cursor: pointer;
+  border: none;
+  color: #000;
+  text-align: center;
+  border-radius: 30px;
+  background-color: #fff;
+  align-self: stretch;
+  align-items: center;
+  padding: 27px 20px 17px;
+  font: 500 36px/44px Inter, sans-serif;
+}
+@media (max-width: 991px) {
+  .user-type1 {
+    justify-content: center;
+    color: #000;
+    text-align: center;
+    max-width: 1317px;
+    border-radius: 20px;
+    background-color: #fff;
+    align-self: stretch;
+    margin-top: 47px;
+    align-items: center;
+    padding: 27px 20px 17px;
+    font: 500 36px/44px Inter, sans-serif;
+  }
+}
+.user-type1:active{
+  background-color: gray;
+  text-decoration: none;
+}
+.user-type2 {
+  max-width: 100%;
+  margin-top: 40px;
+  justify-content: center;
+  cursor: pointer;
+  color: #000;
+  border: none;
+  text-align: center;
+  border-radius: 30px;
+  background-color: #fff;
+  align-self: stretch;
+  align-items: center;
+  padding: 27px 20px 17px;
+  font: 500 36px/44px Inter, sans-serif;
+}
+@media (max-width: 991px) {
+  .user-type2 {
+    justify-content: center;
+    color: #000;
+    text-align: center;
+    max-width: 1317px;
+    border-radius: 20px;
+    background-color: #fff;
+    align-self: stretch;
+    margin-top: 47px;
+    align-items: center;
+    padding: 27px 20px 17px;
+    font: 500 36px/44px Inter, sans-serif;
+  }
+}
+.user-type2:active{
+  background-color: gray;
+  text-decoration: none;
+}
+.user-type3 {
+  max-width: 100%;
+  margin-top: 40px;
+  justify-content: center;
+  cursor: pointer;
+  border: none;
+  color: #000;
+  text-align: center;
+  border-radius: 30px;
+  background-color: #fff;
+  align-self: stretch;
+  align-items: center;
+  padding: 27px 20px 17px;
+  font: 500 36px/44px Inter, sans-serif;
+}
+@media (max-width: 991px) {
+  .user-type3 {
+    justify-content: center;
+    color: #000;
+    text-align: center;
+    max-width: 1317px;
+    border-radius: 20px;
+    background-color: #fff;
+    align-self: stretch;
+    margin-top: 47px;
+    align-items: center;
+    padding: 27px 20px 17px;
+    font: 500 36px/44px Inter, sans-serif;
+  }
+}
+.user-type3:active{
+  background-color: gray;
+  text-decoration: none;
+}
