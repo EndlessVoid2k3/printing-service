@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>LogIn_1</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter%3A500%2C600%2C700%2C800"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A500%2C600%2C700%2C800"/>
+  <link rel="stylesheet" href="./styles/login1Admin.css"/>
+</head>
+<body>
+<div class="login1-CGV">
+  <div class="auto-group-vwph-Ln1">
+    <img class="img-2" src="./assets/image-1-Sww.png"/>
+    <p class="div-4">Xác nhận đăng nhập</p>
+  </div>
+  <div class="auto-group-lzqf-X7j">
+    <div class="div-6">
+      <form class="auto-group-qxr7-WVT">
+        <p class="div-8">Tên đăng nhập</p>
+        <input type="text" class="div-9" id="username" placeholder="Nhập dữ liệu">
+        <p class="div-10">Mật khẩu</p>
+        <input type="text" id="password" class="div-11" placeholder="Nhập dữ liệu">
+      </form>
+      
+      <img class="image-3-LYM" src="./assets/image-3.png"/>
+    </div>
+    
+    <div class="div-12">
+      <div class="div-13">
+        <div class="column">
+          <div class="div-14">
+            <div class="div-15">
+              <a class="div-16" href="historylogadmin.html" onclick= "return validateLoginAdmin()">Đăng nhập</a>
+              <button class="div-18" onclick="return deleteLogin()">Hủy</button>
+            </div>
+            <span id="error"></span>           
+            <div class="div-20">Quên mật khẩu</div>
+            <a href="changepass.html" class="div-21">Thay đổi mật khẩu</a>
+          </div>
+        </div>
+        <div class="column-2">
+          <div class="div-22">
+            <div class="div-23">Hỗ trợ kĩ thuật:</div>
+            <div class="div-24">E-mail: <br> support@hcmut.edu.vn</div>
+            <div class="div-25">Tel: <br> (84-8) 38647256 - 5200</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<script src="./assets/js/data.js"></script>
+<script src="./assets/js/login.js"></script>
+</body>
