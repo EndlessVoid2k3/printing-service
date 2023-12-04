@@ -288,18 +288,33 @@ body {
 .div-24 {
   color: #000;
   margin-top: 20px;
-  font: 500 32px/40px Inter, sans-serif;
+  font: 500 25px/40px Inter, sans-serif;
 }
 .div-25 {
   color: #000;
   margin-top: 28px;
-  font: 500 32px/40px Inter, sans-serif;
+  font: 500 25px/40px Inter, sans-serif;
 }
-@media screen and (max-width: 320px){
+@media (max-width: 1250px){
+  .div-24{
+    font-size: 20px;
+  }
+  .div-25{
+    font-size: 20px;
+  }
+}
+@media (max-width: 370px){
   html{
     font-size: 30%;
   }
+  .div-24{
+    font-size: 14px;
+  }
+  .div-25{
+    font-size: 14px;
+  }
 }
+
 @media screen and (min-width: 320px){
   html{
     font-size: 20%;
