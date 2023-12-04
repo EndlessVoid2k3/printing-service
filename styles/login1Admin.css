@@ -1,0 +1,348 @@
+
+html {
+	font-size:80%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 100%;
+}.login1-CGV {
+  box-sizing: border-box;
+  padding: 0.5rem 0rem 9.9rem 0rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #d6d5d5;
+  border-radius: 1rem;
+}
+.login1-CGV .auto-group-vwph-Ln1 {
+  margin-bottom: 9.4rem;
+  box-sizing: border-box;
+  padding: 1.9rem 6.4rem 1.1rem 8.1rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #1410f3;
+  flex-shrink: 0;
+}
+.login1-CGV .auto-group-lzqf-X7j {
+  margin: 0 6.1rem;
+  box-sizing: border-box;
+  padding: 5.6rem 4.7rem 3.2rem 3.9rem;
+  width: calc(100% - 12.2rem);
+  display: flex;
+  flex-direction: column;
+  background-color: #e9e9e9;
+  flex-shrink: 0;
+}
+.login1-CGV .auto-group-lzqf-X7j .auto-group-x2dt-12u .auto-group-qxr7-WVT {
+  margin-right: 31.2rem;
+  width: 43.3rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.img-2 {
+  aspect-ratio: 1;
+  object-fit: contain;
+  object-position: center;
+  width: 102px;
+  overflow: hidden;
+  max-width: 100%;
+}
+.div-4 {
+  position: relative;
+  color: #fff;
+  text-align: right;
+  align-self: center;
+  flex-grow: 1;
+  flex-basis: auto;
+  margin: auto 0;
+  font: 800 64px/77px Inter, sans-serif;
+}
+@media (max-width: 991px) {
+  .div-4 {
+    max-width: 100%;
+    font-size: 40px;
+    line-height: 53px;
+  }
+}
+.div-6 {
+  display: flex;
+  margin-top: 12px;
+  padding-right: 80px;
+  justify-content: space-between;
+  gap: 20px;
+}
+@media (max-width: 991px) {
+  .div-6 {
+    max-width: 100%;
+    flex-wrap: wrap;
+    padding-right: 20px;
+  }
+}
+.div-8 {
+  color: #000;
+  white-space: nowrap;
+  font: 700 32px/39px Inter, sans-serif;
+}
+@media (max-width: 991px) {
+  .div-8 {
+    max-width: 100%;
+    white-space: initial;
+  }
+}
+.div-9 {
+  color: #d0d0d0;
+  width: 319px;
+  width: 100%;
+  background-color: #fcfee8;
+  margin-top: 43px;
+  align-items: start;
+  padding: 14px 20px 8px 37px;
+  font: 700 32px/39px Inter, sans-serif;
+}
+@media (max-width: 991px) {
+  .div-9 {
+    max-width: 100%;
+    margin-top: 40px;
+    padding-left: 10px;
+  }
+}
+.div-10 {
+  color: #000;
+  margin-top: 48px;
+  white-space: nowrap;
+  font: 700 32px/39px Inter, sans-serif;
+}
+@media (max-width: 991px) {
+  .div-10 {
+    max-width: 100%;
+    margin-top: 40px;
+    white-space: initial;
+  }
+}
+.div-11 {
+  color: #d0d0d0;
+  width: 319px;
+  width: 100%;
+  background-color: #fcfee8;
+  margin-top: 43px;
+  align-items: start;
+  padding: 14px 20px 8px 37px;
+  font: 700 32px/39px Inter, sans-serif;
+}
+@media (max-width: 991px) {
+  .div-11 {
+    max-width: 100%;
+    margin-top: 40px;
+    padding-left: 10px;
+  }
+}
+.div-12 {
+  margin-top: 44px;
+}
+@media (max-width: 991px) {
+  .div-12 {
+    max-width: 100%;
+    margin-top: 40px;
+  }
+}
+.div-13 {
+  gap: 20px;
+  display: flex;
+}
+@media (max-width: 991px) {
+  .div-13 {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0px;
+  }
+}
+.column {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 63%;
+  margin-left: 0px;
+}
+@media (max-width: 991px) {
+  .column {
+    width: 100%;
+  }
+}
+.div-14 {
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+}
+@media (max-width: 991px) {
+  .div-14 {
+    max-width: 100%;
+    margin-top: 40px;
+  }
+}
+.div-15 {
+  display: flex;
+  padding-right: 80px;
+  gap: 20px;
+}
+@media (max-width: 991px) {
+  .div-15 {
+    max-width: 100%;
+    flex-wrap: wrap;
+    padding-right: 20px;
+  }
+}
+.div-16 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #fff;
+  background-color: #0000ee;
+  text-align: center;
+  position: relative;
+  max-width: 268px;
+  border-radius: 10px;
+  overflow: hidden;
+  width: 250px;
+  align-items: center;
+  cursor: pointer;
+  padding: 27px 20px 21px;
+  font: 700 32px/39px Inter, sans-serif;
+}
+.div-18 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #fff;
+  background-color: #0000ee;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  border-radius: 10px;
+  width: 175px;
+  align-items: center;
+  cursor: pointer;
+  padding: 24px 20px;
+  font: 700 32px/39px Inter, sans-serif;
+}
+.div-19 {
+  position: relative;
+}
+.div-20 {
+  color: #00e;
+  margin-top: 17px;
+  font: 500 32px/40px Inter, sans-serif;
+}
+@media (max-width: 991px) {
+  .div-20 {
+    max-width: 100%;
+  }
+}
+.div-21 {
+  color: #00e;
+  margin-top: 19px;
+  font: 500 32px/40px Inter, sans-serif;
+}
+@media (max-width: 991px) {
+  .div-21 {
+    max-width: 100%;
+  }
+}
+.column-2 {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+  width: 37%;
+  margin-left: 20px;
+}
+@media (max-width: 991px) {
+  .column-2 {
+    width: 100%;
+  }
+}
+.div-22 {
+  display: flex;
+  flex-direction: column;
+}
+@media (max-width: 991px) {
+  .div-22 {
+    margin-top: 40px;
+  }
+}
+.div-23 {
+  color: #000;
+  font: 600 40px/48px Inter, sans-serif;
+}
+.div-24 {
+  color: #000;
+  margin-top: 20px;
+  font: 500 32px/40px Inter, sans-serif;
+}
+.div-25 {
+  color: #000;
+  margin-top: 28px;
+  font: 500 32px/40px Inter, sans-serif;
+}
+@media screen and (max-width: 320px){
+  html{
+    font-size: 30%;
+  }
+}
+@media screen and (min-width: 320px){
+  html{
+    font-size: 20%;
+  }
+}
+@media screen and (min-width: 576px){
+  html{
+    font-size: 30%;
+  }
+}
+@media screen and (min-width: 1023px){
+  html{
+    font-size: 62.5%;
+  }
+}
+@media screen and (min-width: 1400px){
+  html{
+    font-size: 80%;
+  }
+}
+@media screen and (max-width: 768px){
+  .image-3-LYM{
+    display:none;
+  }
+}
+input[type="text"]
+{
+    color: #000;
+    text-align: left;
+}
+.div-14 span{
+  display: flex;
+  padding-top: 20px;
+  text-align: left;
+  font-size: 30px;
+  text-align: left;
+  color:red;
+}
+.div-16:link { text-decoration: none; }
+.div-16:visited { text-decoration: none; }
+.div-16:hover { text-decoration: none; }
+.div-16:active{text-decoration: none;}
+.div-21:link { text-decoration: none; }
+.div-21:visited { text-decoration: none; }
+.div-21:hover { text-decoration: none; }
+.div-21:active{text-decoration: none;}

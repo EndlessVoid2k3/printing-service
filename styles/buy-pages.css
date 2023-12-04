@@ -332,6 +332,16 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
+
+.auto-group-wvsq-aNq .auto-group-fd5f-ajX .numBox{
+  width: 7rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-family: Inter, 'Source Sans Pro';
+  text-align: center;
+}
+
 .auto-group-wvsq-aNq .auto-group-fd5f-ajX .auto-group-fo8z-J9j {
   margin-bottom: 1.7rem;
   box-sizing: border-box;
@@ -351,6 +361,7 @@ body {
   font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+  line-break:;
 }
 .auto-group-wvsq-aNq .auto-group-fd5f-ajX .auto-group-fo8z-J9j .auto-group-zubb-kGd {
   width: 100%;
@@ -361,6 +372,7 @@ body {
 }
 .auto-group-wvsq-aNq .auto-group-fd5f-ajX .auto-group-fo8z-J9j .auto-group-zubb-kGd .n-gia--gvy {
   margin: 0rem 25.3rem 0.1rem 0rem;
+  width: 7.1rem;
   font-size: 1.6rem;
   font-weight: 700;
   line-height: 1.2125;
@@ -387,7 +399,7 @@ body {
   width: 8.3rem;
   height: 3.7rem;
   position: absolute;
-  left: 0.3rem;
+  %left: 0.3rem;
   top: 0;
   text-align: center;
   font-size: 1.6rem;
@@ -430,6 +442,7 @@ body {
   flex-shrink: 0;
 }
 .auto-group-wvsq-aNq .auto-group-fd5f-ajX .auto-group-2fa5-jGy .auto-group-wm7k-PMX .n-gia--wdw {
+  width: 7.1rem;
   margin: 0.1rem 25.6rem 0rem 0rem;
   font-size: 1.6rem;
   font-weight: 700;
@@ -556,6 +569,7 @@ body {
   flex-shrink: 0;
 }
 .auto-group-wvsq-aNq .auto-group-fd5f-ajX .auto-group-wljq-1p9 .auto-group-3szf-g9b .n-gia--2jF {
+  width: 7.1rem;
   margin: 0.1rem 25.6rem 0rem 0rem;
   font-size: 1.6rem;
   font-weight: 700;
