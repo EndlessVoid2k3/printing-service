@@ -43,3 +43,11 @@ function deleteLogin(){
     document.getElementById('username').value = '';
     document.getElementById('password').value = '';
 }
+function myFunction(){
+    var x = document.getElementById("password");
+    if (x.type === "password") {
+        x.type = "text";
+    } else {
+        x.type = "password";
+    }
+}

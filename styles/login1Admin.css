@@ -338,6 +338,31 @@ input[type="text"]
   text-align: left;
   color:red;
 }
+.div-26 {
+  color: #000;
+  width: 319px;
+  width: 100%;
+  background-color: none;
+  margin-top: 20px;
+  align-items: start;
+  padding: 14px 20px 8px;
+  font: 700 25px/39px Inter, sans-serif;
+}
+@media (max-width: 991px) {
+  .div-26 {
+    max-width: 100%;
+    margin-top: 40px;
+    padding-left: 10px;
+  }
+}
+.input[type='password'] {
+  color:#000;
+  font-family: Verdana;
+}
+input.large{
+  transform: scale(2);
+  margin-right:10px;
+}
 .div-16:link { text-decoration: none; }
 .div-16:visited { text-decoration: none; }
 .div-16:hover { text-decoration: none; }
